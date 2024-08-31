@@ -14,7 +14,8 @@
       <q-btn dense flat icon="wifi" />
       <div>9:41</div>
       <q-btn dense flat icon="search" />
-      <q-btn dense flat icon="list" />
+      <q-btn dense flat icon="list" /> <q-btn dense flat icon="search" />
+      <q-btn dense flat icon="search" />
     </q-bar>
 
     <q-bar class="bg-black text-white">
