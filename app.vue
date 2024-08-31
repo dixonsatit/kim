@@ -48,6 +48,9 @@
       <div class="col text-center text-weight-bold">My-App</div>
     </q-bar>
   </div>
+  <div>
+    <QBtn color="primary" label="SAVE" />
+  </div>
 
   <q-dialog v-model="fullHeight" full-height>
     <q-card class="column full-height" style="width: 300px">
