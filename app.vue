@@ -3,7 +3,7 @@
 
       <QBtn color="primary" label="Primary" />
       <QBtn @click="fullHeight=true" color="secondary" label="Secondary" />
-      <QBtn @click="fullHeight=true" color="secondary" label="Secondary TEST" />
+      <QBtn @click="fullHeight=true" color="secondary" label="Secondary Kim test" />
 
   </div>
 
