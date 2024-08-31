@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.12",
+    "autoprefixer": "^10.4.20",
+    "nuxt": "^3.13.0",
+    "nuxt-quasar-ui": "^2.1.4",
+    "postcss": "^8.4.41",
+    "quasar": "^2.16.9",
+    "tailwindcss": "^3.4.10",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1"
+  }
+}
