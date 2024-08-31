@@ -6,6 +6,9 @@
       <QBtn @click="fullHeight=true" color="secondary" label="Secondary TEST ss" />
 
   </div>
+  <div>
+    <QBtn color="primary" label="SAVE" />
+  </div>
 
   <q-dialog
       v-model="fullHeight"
